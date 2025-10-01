@@ -1,2 +1,2 @@
-# mi-ptrimer-repo
+# mi-primer-repo
 1.0
